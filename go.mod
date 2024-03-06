@@ -1,4 +1,4 @@
-module go.uber.org/mock
+module github.com/mtoader/mock
 
 go 1.20
 
